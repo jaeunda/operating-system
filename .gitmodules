@@ -2,7 +2,7 @@
 	path = xv6-lseek
 	url = git@github.com:jaeunda/xv6-syscall.git
 [submodule "os-p1-syscall"]
-	path = xv6-lseek
+	path = xv6-syscall
 	url = git@github.com:jaeunda/os-p1-syscall.git
 [submodule "os-p2-scheduler"]
 	path = xv6-scheduler
